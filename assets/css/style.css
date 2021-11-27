@@ -161,6 +161,20 @@ color:black;
         font-size: 24px;
         color: black;
     }
+    #quien img {
+        width: 280px;
+        padding-bottom: 25px;
+    }
+
+    #mision img {
+        width: 280px;
+        padding-bottom: 25px;
+    }
+
+    #vision img {
+        width: 280px;
+        padding-bottom: 25px;
+    }
 }
 
     @media all and (max-width: 400px) {
@@ -184,6 +198,19 @@ color:black;
             font-size: 22px;
             color: black;
         }
+        #quien img {
+            width: 280px;
+            padding-bottom: 25px;
+        }
+        #mision img {
+            width: 280px;
+            padding-bottom: 25px;
+        }
+        #vision img {
+            width: 280px;
+            padding-bottom: 25px;
+        }
+
     }
 
     #hero h2 {

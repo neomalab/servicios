@@ -1642,7 +1642,7 @@ section {
 
 .btn-flotanteBook {
     position: fixed;
-    bottom: 0px;
+    bottom: 20px;
     right: 10px;
     z-index: 999999;
 }
